@@ -9,7 +9,7 @@ I've just started exploring tools like **Excel, Tableau, Power BI, and SQL** to 
 
 ## 🔗 Portfolio Projects
 Here are a few projects I'm working on:
-- 🛳️ [Titanic Data Analysis](https://github.com/kimpeque/titanic-data-analysis) – Survival trends by gender, class, and age
+- 🛳️ [Titanic Data Analysis](https://github.com/kimpeque/titanictraining) – Survival trends by gender, class, and age
 - 🎬 [Netflix Content Analysis](https://github.com/kimpeque/netflix-data-analysis) – Exploring growth, genres, and country trends  
 - 🛒 [Retail Sales Dashboard](https://github.com/kimpeque/retail-sales-analysis) – Sales performance and customer behavior insights  
 
